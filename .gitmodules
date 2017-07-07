@@ -10,3 +10,6 @@
 [submodule "基础课程/C++面向对象程序设计"]
 	path = 基础课程/C++面向对象程序设计
 	url = git@github.com:edu2act/2017-2018_1st_CPP.git
+[submodule "基础课程/软件过程"]
+	path = 基础课程/软件过程
+	url = https://github.com/edu2act/2017-2018_1st_softwarprocess.git
