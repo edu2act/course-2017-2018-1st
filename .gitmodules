@@ -19,3 +19,9 @@
 [submodule "Java与移动智能设备开发/JavaEE"]
 	path = Java与移动智能设备开发/JavaEE
 	url = https://github.com/edu2act/2017-2018_1st_JavaEE.git
+[submodule "Java与大数据分析/Hibernate"]
+	path = Java与大数据分析/Hibernate
+	url = https://github.com/edu2act/2017-2018_1st_Hibernate.git
+[submodule "Java与移动智能设备开发/Hibernate"]
+	path = Java与移动智能设备开发/Hibernate
+	url = https://github.com/edu2act/2017-2018_1st_Hibernate.git
