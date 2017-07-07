@@ -4,3 +4,6 @@
 [submodule "基础课程/计算机导论"]
 	path = 基础课程/计算机导论
 	url = https://github.com/edu2act/2017-2018_1st_ComputerIntroduction.git
+[submodule "基础课程/Web开发（二）"]
+	path = 基础课程/Web开发（二）
+	url = https://github.com/edu2act/2017-2018_1st_web2.git
