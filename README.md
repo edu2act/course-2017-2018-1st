@@ -14,6 +14,7 @@
 |[软件过程](https://github.com/edu2act/2017-2018_1st_softwarprocess)|2015级|[基础课程](./基础课程/)|
 |[JavaEE](https://github.com/edu2act/2017-2018_1st_JavaEE)|2015级|[Java与大数据分析](./Java与大数据分析/) <br/>[Java与移动智能设备开发](./Java与移动智能设备开发)|
 |[Hibernate](https://github.com/edu2act/2017-2018_1st_Hibernate)|2015级|[Java与大数据分析](./Java与大数据分析/) <br/>[Java与移动智能设备开发](./Java与移动智能设备开发)|
+|[Spring](https://github.com/edu2act/2017-2018_1st_Spring)|2015级|[Java与大数据分析](./Java与大数据分析/) <br/>[Java与移动智能设备开发](./Java与移动智能设备开发)|
 |[移动Web开发](https://github.com/edu2act/2017-2018_1st_MobileWeb)|2015级|[HTML5与移动互联网开发](./HTML5与移动互联网开发)|
 
 
