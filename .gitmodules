@@ -58,3 +58,9 @@
 [submodule "Python与机器学习/Tensorflow"]
 	path = Python与机器学习/Tensorflow
 	url = https://github.com/edu2act/2017-2018_1st_TensorFlow
+[submodule "PHP与云计算技术/微信与移动Web开发"]
+	path = PHP与云计算技术/微信与移动Web开发
+	url = https://github.com/edu2act/2017-2018_1st_Wechat_Web_Programming
+[submodule "基础课程/计算机组成原理"]
+	path = 基础课程/计算机组成原理
+	url = https://github.com/edu2act/2017-2018_1st_ComputerOrganization
