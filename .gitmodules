@@ -40,3 +40,6 @@
 [submodule "Java与移动智能设备开发/Spring"]
 	path = Java与移动智能设备开发/Spring
 	url = https://github.com/edu2act/2017-2018_1st_Spring
+[submodule "软件测试/自动化测试工具UFT"]
+	path = 软件测试/自动化测试工具UFT
+	url = https://github.com/edu2act/2017-2018_1st_UFT
