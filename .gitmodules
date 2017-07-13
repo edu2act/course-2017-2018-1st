@@ -43,3 +43,6 @@
 [submodule "软件测试/自动化测试工具UFT"]
 	path = 软件测试/自动化测试工具UFT
 	url = https://github.com/edu2act/2017-2018_1st_UFT
+[submodule "软件测试/开源自动化测试框架"]
+	path = 软件测试/开源自动化测试框架
+	url = https://github.com/edu2act/2017-2018_1st_WebDriver
