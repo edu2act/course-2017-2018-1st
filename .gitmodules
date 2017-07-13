@@ -46,3 +46,6 @@
 [submodule "软件测试/开源自动化测试框架"]
 	path = 软件测试/开源自动化测试框架
 	url = https://github.com/edu2act/2017-2018_1st_WebDriver
+[submodule "软件测试/测试技能"]
+	path = 软件测试/测试技能
+	url = https://github.com/edu2act/2017-2018_1st_Testing-technique
