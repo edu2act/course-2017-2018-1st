@@ -49,3 +49,6 @@
 [submodule "软件测试/测试技能"]
 	path = 软件测试/测试技能
 	url = https://github.com/edu2act/2017-2018_1st_Testing-technique
+[submodule "基础课程/软件测试基础"]
+	path = 基础课程/软件测试基础
+	url = https://github.com/edu2act/2017-2018_1st_Foundation-Software-Tesing/
