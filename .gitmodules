@@ -64,3 +64,6 @@
 [submodule "基础课程/计算机组成原理"]
 	path = 基础课程/计算机组成原理
 	url = https://github.com/edu2act/2017-2018_1st_ComputerOrganization
+[submodule "PHP与云计算技术/PHP框架开发"]
+	path = PHP与云计算技术/PHP框架开发
+	url = https://github.com/edu2act/2017-2018_1st_PHP-Framework-Development
