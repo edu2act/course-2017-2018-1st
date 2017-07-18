@@ -14,6 +14,7 @@
 |[软件测试基础](https://github.com/edu2act/2017-2018_1st_Foundation-Software-Tesing)|2016级|[基础课程](./基础课程/)|
 |[计算机组成原理](https://github.com/edu2act/2017-2018_1st_ComputerOrganization)|2016级|[基础课程](./基础课程/)|
 |[C++面向对象程序设计](https://github.com/edu2act/2017-2018_1st_CPP)|2016级|[基础课程](./基础课程/)|
+|[PythonDjango](https://github.com/edu2act/2017-2018_1st_PythonDjango)|2016级|[基础课程](./基础课程/)|
 |[软件过程](https://github.com/edu2act/2017-2018_1st_softwarprocess)|2015级|[基础课程](./基础课程/)|
 |[自动化测试工具UFT](https://github.com/edu2act/2017-2018_1st_UFT)|2015级|[软件测试](./软件测试/)
 |[开源自动化测试框架](https://github.com/edu2act/2017-2018_1st_WebDriver)|2015级|[软件测试](./软件测试/)
