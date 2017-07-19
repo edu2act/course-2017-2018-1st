@@ -76,3 +76,6 @@
 [submodule "基础课程/PythonDjango"]
 	path = 基础课程/PythonDjango
 	url = https://github.com/edu2act/2017-2018_1st_PythonDjango.git
+[submodule "PHP与云计算技术/LAMP体系结构"]
+	path = PHP与云计算技术/LAMP体系结构
+	url = https://github.com/edu2act/2017-2018_1st_LAMP.git
