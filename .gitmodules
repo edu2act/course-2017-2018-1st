@@ -1,81 +1,81 @@
-[submodule "基础课程/信息素养与实践"]
-	path = 基础课程/信息素养与实践
-	url = https://github.com/edu2act/2017-2018_1st_Informationliteracy1.git
 [submodule "基础课程/计算机导论"]
 	path = 基础课程/计算机导论
-	url = https://github.com/edu2act/2017-2018_1st_ComputerIntroduction.git
-[submodule "基础课程/Web开发（二）"]
-	path = 基础课程/Web开发（二）
-	url = https://github.com/edu2act/2017-2018_1st_web2.git
-[submodule "基础课程/C++面向对象程序设计"]
-	path = 基础课程/C++面向对象程序设计
-	url = git@github.com:edu2act/2017-2018_1st_CPP.git
-[submodule "基础课程/软件过程"]
-	path = 基础课程/软件过程
-	url = https://github.com/edu2act/2017-2018_1st_softwarprocess.git
-[submodule "Java与大数据分析/JavaEE"]
-	path = Java与大数据分析/JavaEE
-	url = https://github.com/edu2act/2017-2018_1st_JavaEE.git
-[submodule "Java与移动智能设备开发/JavaEE"]
-	path = Java与移动智能设备开发/JavaEE
-	url = https://github.com/edu2act/2017-2018_1st_JavaEE.git
-[submodule "Java与大数据分析/Hibernate"]
-	path = Java与大数据分析/Hibernate
-	url = https://github.com/edu2act/2017-2018_1st_Hibernate.git
-[submodule "Java与移动智能设备开发/Hibernate"]
-	path = Java与移动智能设备开发/Hibernate
-	url = https://github.com/edu2act/2017-2018_1st_Hibernate.git
-[submodule "HTML5与移动互联网开发/移动Web开发"]
-	path = HTML5与移动互联网开发/移动Web开发
-	url = https://github.com/edu2act/2017-2018_1st_MobileWeb.git
-[submodule "Python与机器学习/深度学习"]
-	path = Python与机器学习/深度学习
-	url = https://github.com/edu2act/2017-2018_1st_DeepLearning.git
-[submodule "HTML5与移动互联网开发/JavaScript进阶"]
-	path = HTML5与移动互联网开发/JavaScript进阶
-	url = https://github.com/edu2act/2017-2018_1st_JavaScript-Advanced.git
-[submodule "Java与大数据分析/Spring"]
-	path = Java与大数据分析/Spring
-	url = https://github.com/edu2act/2017-2018_1st_Spring.git
-[submodule "Java与移动智能设备开发/Spring"]
-	path = Java与移动智能设备开发/Spring
-	url = https://github.com/edu2act/2017-2018_1st_Spring.git
-[submodule "软件测试/自动化测试工具UFT"]
-	path = 软件测试/自动化测试工具UFT
-	url = https://github.com/edu2act/2017-2018_1st_UFT.git
-[submodule "软件测试/开源自动化测试框架"]
-	path = 软件测试/开源自动化测试框架
-	url = https://github.com/edu2act/2017-2018_1st_WebDriver.git
-[submodule "软件测试/测试技能"]
-	path = 软件测试/测试技能
-	url = https://github.com/edu2act/2017-2018_1st_Testing-technique.git
-[submodule "基础课程/软件测试基础"]
-	path = 基础课程/软件测试基础
-	url = https://github.com/edu2act/2017-2018_1st_Foundation-Software-Tesing.git
-[submodule "HTML5与移动互联网开发/Node.js"]
-	path = HTML5与移动互联网开发/Node.js
-	url = https://github.com/edu2act/2017-2018_1st_node.js.git
-[submodule "Python与机器学习/Tensorflow"]
-	path = Python与机器学习/Tensorflow
-	url = https://github.com/edu2act/2017-2018_1st_TensorFlow.git
-[submodule "PHP与云计算技术/微信与移动Web开发"]
-	path = PHP与云计算技术/微信与移动Web开发
-	url = https://github.com/edu2act/2017-2018_1st_Wechat_Web_Programming.git
-[submodule "基础课程/计算机组成原理"]
-	path = 基础课程/计算机组成原理
-	url = https://github.com/edu2act/2017-2018_1st_ComputerOrganization.git
-[submodule "PHP与云计算技术/PHP框架开发"]
-	path = PHP与云计算技术/PHP框架开发
-	url = https://github.com/edu2act/2017-2018_1st_PHP-Framework-Development.git
-[submodule "Python与机器学习/PythonWeb高级开发"]
-	path = Python与机器学习/PythonWeb高级开发
-	url = https://github.com/edu2act/2017-2018_1st_Python_Web.git
+	url = https://github.com/edu2act/course-computerIntroduction.git
+[submodule "基础课程/信息素养与实践"]
+	path = 基础课程/信息素养与实践
+	url = https://github.com/edu2act/course-informationliteracy.git
 [submodule "基础课程/数据结构"]
 	path = 基础课程/数据结构
-	url = https://github.com/edu2act/2017-2018_1st_DataStructure.git
+	url = https://github.com/edu2act/course-datastructure.git
+[submodule "基础课程/Web开发（二）"]
+	path = 基础课程/Web开发（二）
+	url = https://github.com/edu2act/course-web2.git
+[submodule "基础课程/软件测试基础"]
+	path = 基础课程/软件测试基础
+	url = https://github.com/edu2act/course-foundation-software-tesing.git
+[submodule "基础课程/计算机组成原理"]
+	path = 基础课程/计算机组成原理
+	url = https://github.com/edu2act/course-computer-organization.git 
+[submodule "基础课程/C++面向对象程序设计"]
+	path = 基础课程/C++面向对象程序设计
+	url = https://github.com/edu2act/course-cpp.git
 [submodule "基础课程/PythonDjango"]
 	path = 基础课程/PythonDjango
-	url = https://github.com/edu2act/2017-2018_1st_PythonDjango.git
+	url = https://github.com/edu2act/course-python-django.git
+[submodule "基础课程/软件过程"]
+	path = 基础课程/软件过程
+	url = https://github.com/edu2act/course-softwarprocess.git
+[submodule "软件测试/自动化测试工具UFT"]
+	path = 软件测试/自动化测试工具UFT
+	url = https://github.com/edu2act/course-uft.git
+[submodule "软件测试/开源自动化测试框架"]
+	path = 软件测试/开源自动化测试框架
+	url = https://github.com/edu2act/course-web-driver.git
+[submodule "软件测试/测试技能"]
+	path = 软件测试/测试技能
+	url = https://github.com/edu2act/course-testing-technique.git
+[submodule "Python与机器学习/深度学习"]
+	path = Python与机器学习/深度学习
+	url = https://github.com/edu2act/course-deep-learning.git
+[submodule "Python与机器学习/Tensorflow"]
+	path = Python与机器学习/Tensorflow
+	url = https://github.com/edu2act/course-tensor-flow.git   
+[submodule "Python与机器学习/PythonWeb高级开发"]
+	path = Python与机器学习/PythonWeb高级开发
+	url = https://github.com/edu2act/course-python-web-high.git
+[submodule "PHP与云计算技术/PHP框架开发"]
+	path = PHP与云计算技术/PHP框架开发
+	url = https://github.com/edu2act/course-php-framework-development.git
 [submodule "PHP与云计算技术/LAMP体系结构"]
 	path = PHP与云计算技术/LAMP体系结构
-	url = https://github.com/edu2act/2017-2018_1st_LAMP.git
+	url = https://github.com/edu2act/course-lamp.git
+[submodule "PHP与云计算技术/微信与移动Web开发"]
+	path = PHP与云计算技术/微信与移动Web开发
+	url = https://github.com/edu2act/course-wechat-web-programming.git
+[submodule "HTML5与移动互联网开发/Node.js"]
+	path = HTML5与移动互联网开发/Node.js
+	url = https://github.com/edu2act/course-nodejs.git
+[submodule "HTML5与移动互联网开发/JavaScript进阶"]
+	path = HTML5与移动互联网开发/JavaScript进阶
+	url = https://github.com/edu2act/course-javascript-advanced.git
+[submodule "HTML5与移动互联网开发/移动Web开发"]
+	path = HTML5与移动互联网开发/移动Web开发
+	url = https://github.com/edu2act/course-mobile-web.git
+[submodule "Java与大数据分析/JavaEE"]
+	path = Java与大数据分析/JavaEE
+	url = https://github.com/edu2act/course-javaee.git
+[submodule "Java与大数据分析/Spring"]
+	path = Java与大数据分析/Spring
+	url = https://github.com/edu2act/course-spring.git
+[submodule "Java与大数据分析/Hibernate"]
+	path = Java与大数据分析/Hibernate
+	url = https://github.com/edu2act/course-hibernate.git
+[submodule "Java与移动智能设备开发/JavaEE"]
+	path = Java与移动智能设备开发/JavaEE
+	url = https://github.com/edu2act/course-javaee.git
+[submodule "Java与移动智能设备开发/Spring"]
+	path = Java与移动智能设备开发/Spring
+	url = https://github.com/edu2act/course-spring.git
+[submodule "Java与移动智能设备开发/Hibernate"]
+	path = Java与移动智能设备开发/Hibernate
+	url = https://github.com/edu2act/course-hibernate.git
