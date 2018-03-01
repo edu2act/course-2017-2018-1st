@@ -30,7 +30,7 @@
 |[JavaScript进阶](https://github.com/edu2act/2017-2018_1st_JavaScript-Advanced)|2015级|[HTML5与移动互联网开发](./HTML5与移动互联网开发)| |
 |[JavaEE](https://github.com/edu2act/2017-2018_1st_JavaEE)|2015级|[Java与大数据分析](./Java与大数据分析/) 、[Java与移动智能设备开发](./Java与移动智能设备开发)| |
 |[Spring](https://github.com/edu2act/2017-2018_1st_Spring)|2015级|[Java与大数据分析](./Java与大数据分析/)、 [Java与移动智能设备开发](./Java与移动智能设备开发)| |
-|[Hibernate](https://github.com/edu2act/course-hibernate/tree/2017-2018-1st)|2015级|[Java与大数据分析](./Java与大数据分析/)、 [Java与移动智能设备开发](./Java与移动智能设备开发)|[<img src="./mage/download.png" height="15" />](https://github.com/edu2act/course-hibernate/releases/tag/2017-2018-1st)|
+|[Hibernate](https://github.com/edu2act/course-hibernate/tree/2017-2018-1st)|2015级|[Java与大数据分析](./Java与大数据分析/)、 [Java与移动智能设备开发](./Java与移动智能设备开发)|[<img src="./image/download.png" height="15" />](https://github.com/edu2act/course-hibernate/releases/tag/2017-2018-1st)|
 
 
 
