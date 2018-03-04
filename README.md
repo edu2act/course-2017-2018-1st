@@ -13,7 +13,7 @@
 |[WEB开发(二)](https://github.com/edu2act/2017-2018_1st_web2)|2016级|[基础课程](./基础课程/)| |
 |[软件测试基础](https://github.com/edu2act/2017-2018_1st_Foundation-Software-Tesing)|2016级|[基础课程](./基础课程/)| |
 |[计算机组成原理](https://github.com/edu2act/2017-2018_1st_ComputerOrganization)|2016级|[基础课程](./基础课程/)| |
-|[C++面向对象程序设计](https://github.com/edu2act/2017-2018_1st_CPP)|2016级|[基础课程](./基础课程/)| |
+|[C++面向对象程序设计](https://github.com/edu2act/course-cpp/tree/2017-2018-1st)|2016级|[基础课程](./基础课程/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-cpp/releases/tag/2017-2018-1st)|
 |[PythonDjango](https://github.com/edu2act/2017-2018_1st_PythonDjango)|2016级|[基础课程](./基础课程/)| |
 |[软件过程](https://github.com/edu2act/2017-2018_1st_softwarprocess)|2015级|[基础课程](./基础课程/)| |
 |[自动化测试工具UFT](https://github.com/edu2act/2017-2018_1st_UFT)|2015级|[软件测试](./软件测试/)| |
@@ -30,7 +30,7 @@
 |[JavaScript进阶](https://github.com/edu2act/2017-2018_1st_JavaScript-Advanced)|2015级|[HTML5与移动互联网开发](./HTML5与移动互联网开发)| |
 |[JavaEE](https://github.com/edu2act/2017-2018_1st_JavaEE)|2015级|[Java与大数据分析](./Java与大数据分析/) 、[Java与移动智能设备开发](./Java与移动智能设备开发)| |
 |[Spring](https://github.com/edu2act/2017-2018_1st_Spring)|2015级|[Java与大数据分析](./Java与大数据分析/)、 [Java与移动智能设备开发](./Java与移动智能设备开发)| |
-|[Hibernate](https://github.com/edu2act/course-hibernate/tree/2017-2018-1st)|2015级|[Java与大数据分析](./Java与大数据分析/)、 [Java与移动智能设备开发](./Java与移动智能设备开发)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-hibernate/releases/tag/2017-2018-1st)[<img src="./image/download.png" height="15" />](https://github.com/edu2act/course-hibernate/releases/tag/2017-2018-1st)|
+|[Hibernate](https://github.com/edu2act/course-hibernate/tree/2017-2018-1st)|2015级|[Java与大数据分析](./Java与大数据分析/)、 [Java与移动智能设备开发](./Java与移动智能设备开发)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-hibernate/releases/tag/2017-2018-1st)|
 
 
 
