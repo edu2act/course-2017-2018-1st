@@ -10,7 +10,7 @@
 |[计算机导论](https://github.com/edu2act/2017-2018_1st_ComputerIntroduction)|2017级|[基础课程](./基础课程/)| |
 |[信息素养与实践](https://github.com/edu2act/2017-2018_1st_Informationliteracy1)|2017级|[基础课程](./基础课程/)| |
 |[数据结构](https://github.com/edu2act/2017-2018_1st_DataStructure)|2016级|[基础课程](./基础课程/)| |
-|[WEB开发(二)](https://github.com/edu2act/2017-2018_1st_web2)|2016级|[基础课程](./基础课程/)| |
+|[WEB开发(二)](https://github.com/edu2act/course-web2/tree/2017-2018-1st)|2016级|[基础课程](./基础课程/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-web2/releases/tag/2017-2018-1st)|
 |[软件测试基础](https://github.com/edu2act/2017-2018_1st_Foundation-Software-Tesing)|2016级|[基础课程](./基础课程/)| |
 |[计算机组成原理](https://github.com/edu2act/2017-2018_1st_ComputerOrganization)|2016级|[基础课程](./基础课程/)| |
 |[C++面向对象程序设计](https://github.com/edu2act/course-cpp/tree/2017-2018-1st)|2016级|[基础课程](./基础课程/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-cpp/releases/tag/2017-2018-1st)|
