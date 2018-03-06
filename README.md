@@ -11,7 +11,7 @@
 |[信息素养与实践](https://github.com/edu2act/course-informationliteracy/tree/2017-2018-1st)|2017级|[基础课程](./基础课程/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-informationliteracy/releases/tag/2017-2018-1st)|
 |[数据结构](https://github.com/edu2act/course-datastructure/tree/2017-2018-1st)|2016级|[基础课程](./基础课程/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-datastructure/releases/tag/2017-2018-1st)|
 |[WEB开发(二)](https://github.com/edu2act/course-web2/tree/2017-2018-1st)|2016级|[基础课程](./基础课程/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-web2/releases/tag/2017-2018-1st)|
-|[软件测试基础](https://github.com/edu2act/2017-2018_1st_Foundation-Software-Tesing)|2016级|[基础课程](./基础课程/)| |
+|[软件测试基础](https://github.com/edu2act/course-foundation-software-tesing/tree/2017-2018-1st)|2016级|[基础课程](./基础课程/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-foundation-software-tesing/releases/tag/2017-2018-1st)|
 |[计算机组成原理](https://github.com/edu2act/course-computer-organization/tree/2017-2018-1st)|2016级|[基础课程](./基础课程/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-computer-organization/releases/tag/2017-2018-1st)|
 |[C++面向对象程序设计](https://github.com/edu2act/course-cpp/tree/2017-2018-1st)|2016级|[基础课程](./基础课程/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-cpp/releases/tag/2017-2018-1st)|
 |[PythonDjango](https://github.com/edu2act/2017-2018_1st_PythonDjango)|2016级|[基础课程](./基础课程/)| |
@@ -33,7 +33,7 @@
 |[Hibernate](https://github.com/edu2act/course-hibernate/tree/2017-2018-1st)|2015级|[Java与大数据分析](./Java与大数据分析/)、 [Java与移动智能设备开发](./Java与移动智能设备开发)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-hibernate/releases/tag/2017-2018-1st)|
 
 
-
+d
 <!--
 - Java与大数据分析
 - HTML5与移动互联网开发
