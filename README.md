@@ -21,12 +21,12 @@
 |[测试技能](https://github.com/edu2act/2017-2018_1st_Testing-technique)|2015级|[软件测试](./软件测试/)| |
 |[深度学习](https://github.com/edu2act/2017-2018_1st_DeepLearning)|2015级|[Python与机器学习](./Python与机器学习/)| |
 |[TensorFlow](https://github.com/edu2act/2017-2018_1st_TensorFlow)|2015级|[Python与机器学习](./Python与机器学习/)| |
-|[PythonWeb高级开发](https://github.com/edu2act/2017-2018_1st_Python_Web)|2015级|[Python与机器学习](./Python与机器学习/)| |
+|[PythonWeb高级开发](https://github.com/edu2act/course-python-web-high/tree/2017-2018-1st)|2015级|[Python与机器学习](./Python与机器学习/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-python-web-high/releases/tag/2017-2018-1st)|
 |[PHP框架开发](https://github.com/edu2act/2017-2018_1st_PHP-Framework-Development)|2015级|[PHP与云计算技术](./PHP与云计算技术/)| |
 |[LAMP体系结构](https://github.com/edu2act/2017-2018_1st_LAMP)|2015级|[PHP与云计算技术](./PHP与云计算技术/)| |
-|[微信与移动Web开发](https://github.com/edu2act/course-wechat-web-programming)|2015级|[PHP与云计算技术](./PHP与云计算技术/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-wechat-web-programming/releases/tag/2017-2018-1st)|
+|[微信与移动Web开发](https://github.com/edu2act/course-wechat-web-programming/tree/2017-2018-1st)|2015级|[PHP与云计算技术](./PHP与云计算技术/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-wechat-web-programming/releases/tag/2017-2018-1st)|
 |[Node.js](https://github.com/edu2act/2017-2018_1st_node.js)|2015级|[HTML5与移动互联网开发](./HTML5与移动互联网开发)| |
-|[移动Web开发](https://github.com/edu2act/2017-2018_1st_MobileWeb)|2015级|[HTML5与移动互联网开发](./HTML5与移动互联网开发)| |
+|[移动Web开发](https://github.com/edu2act/course-mobile-web/tree/2017-2018-1st)|2015级|[HTML5与移动互联网开发](./HTML5与移动互联网开发)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-mobile-web/releases/tag/2017-2018-1st)|
 |[JavaScript进阶](https://github.com/edu2act/course-javascript-advanced/tree/2017-2018-1st)|2015级|[HTML5与移动互联网开发](./HTML5与移动互联网开发)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-javascript-advanced/releases/tag/2017-2018-1st)|
 |[JavaEE](https://github.com/edu2act/2017-2018_1st_JavaEE)|2015级|[Java与大数据分析](./Java与大数据分析/) 、[Java与移动智能设备开发](./Java与移动智能设备开发)| |
 |[Spring](https://github.com/edu2act/course-spring/tree/2017-2018-1st)|2015级|[Java与大数据分析](./Java与大数据分析/)、 [Java与移动智能设备开发](./Java与移动智能设备开发)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-spring/releases/tag/2017-2018-1st)|
