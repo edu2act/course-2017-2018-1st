@@ -14,7 +14,7 @@
 |[软件测试基础](https://github.com/edu2act/course-foundation-software-tesing/tree/2017-2018-1st)|2016级|[基础课程](./基础课程/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-foundation-software-tesing/releases/tag/2017-2018-1st)|
 |[计算机组成原理](https://github.com/edu2act/course-computer-organization/tree/2017-2018-1st)|2016级|[基础课程](./基础课程/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-computer-organization/releases/tag/2017-2018-1st)|
 |[C++面向对象程序设计](https://github.com/edu2act/course-cpp/tree/2017-2018-1st)|2016级|[基础课程](./基础课程/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-cpp/releases/tag/2017-2018-1st)|
-|[PythonDjango](https://github.com/edu2act/2017-2018_1st_PythonDjango)|2016级|[基础课程](./基础课程/)| |
+|[PythonDjango](https://github.com/edu2act/course-python-django/tree/2017-2018-1st)|2016级|[基础课程](./基础课程/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-python-django/releases/tag/2017-2018-1st)|
 |[软件过程](https://github.com/edu2act/2017-2018_1st_softwarprocess)|2015级|[基础课程](./基础课程/)| |
 |[自动化测试工具UFT](https://github.com/edu2act/course-uft)|2015级|[软件测试](./软件测试/)| |
 |[开源自动化测试框架](https://github.com/edu2act/2017-2018_1st_WebDriver)|2015级|[软件测试](./软件测试/)| |
