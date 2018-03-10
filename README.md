@@ -28,7 +28,7 @@
 |[Node.js](https://github.com/edu2act/course-nodejs/tree/2017-2018-1st)|2015级|[HTML5与移动互联网开发](./HTML5与移动互联网开发)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-nodejs/releases/tag/2017-2018-1st)|
 |[移动Web开发](https://github.com/edu2act/course-mobile-web/tree/2017-2018-1st)|2015级|[HTML5与移动互联网开发](./HTML5与移动互联网开发)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-mobile-web/releases/tag/2017-2018-1st)|
 |[JavaScript进阶](https://github.com/edu2act/course-javascript-advanced/tree/2017-2018-1st)|2015级|[HTML5与移动互联网开发](./HTML5与移动互联网开发)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-javascript-advanced/releases/tag/2017-2018-1st)|
-|[JavaEE](https://github.com/edu2act/2017-2018_1st_JavaEE)|2015级|[Java与大数据分析](./Java与大数据分析/) 、[Java与移动智能设备开发](./Java与移动智能设备开发)| |
+|[JavaEE](https://github.com/edu2act/course-javaee/tree/2017-2018-1st)|2015级|[Java与大数据分析](./Java与大数据分析/) 、[Java与移动智能设备开发](./Java与移动智能设备开发)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-javaee/releases/tag/2017-2018-1st)|
 |[Spring](https://github.com/edu2act/course-spring/tree/2017-2018-1st)|2015级|[Java与大数据分析](./Java与大数据分析/)、 [Java与移动智能设备开发](./Java与移动智能设备开发)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-spring/releases/tag/2017-2018-1st)|
 |[Hibernate](https://github.com/edu2act/course-hibernate/tree/2017-2018-1st)|2015级|[Java与大数据分析](./Java与大数据分析/)、 [Java与移动智能设备开发](./Java与移动智能设备开发)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-hibernate/releases/tag/2017-2018-1st)|
 
