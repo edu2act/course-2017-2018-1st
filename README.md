@@ -19,7 +19,7 @@
 |[自动化测试工具UFT](https://github.com/edu2act/course-uft/tree/2017-2018-1st)|2015级|[软件测试](./软件测试/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-uft/releases/tag/2017-2018-1st)|
 |[开源自动化测试框架](https://github.com/edu2act/2017-2018_1st_WebDriver)|2015级|[软件测试](./软件测试/)| |
 |[测试技能](https://github.com/edu2act/2017-2018_1st_Testing-technique)|2015级|[软件测试](./软件测试/)| |
-|[深度学习](https://github.com/edu2act/2017-2018_1st_DeepLearning)|2015级|[Python与机器学习](./Python与机器学习/)| |
+|[深度学习](https://github.com/edu2act/course-deep-learning/tree/2017-2018-1st)|2015级|[Python与机器学习](./Python与机器学习/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-deep-learning/releases/tag/2017-2018-1st)|
 |[TensorFlow](https://github.com/edu2act/2017-2018_1st_TensorFlow)|2015级|[Python与机器学习](./Python与机器学习/)| |
 |[PythonWeb高级开发](https://github.com/edu2act/course-python-web-high/tree/2017-2018-1st)|2015级|[Python与机器学习](./Python与机器学习/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-python-web-high/releases/tag/2017-2018-1st)|
 |[PHP框架开发](https://github.com/edu2act/2017-2018_1st_PHP-Framework-Development)|2015级|[PHP与云计算技术](./PHP与云计算技术/)| |
