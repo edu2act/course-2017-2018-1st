@@ -20,7 +20,7 @@
 |[开源自动化测试框架](https://github.com/edu2act/2017-2018_1st_WebDriver)|2015级|[软件测试](./软件测试/)| |
 |[测试技能](https://github.com/edu2act/2017-2018_1st_Testing-technique)|2015级|[软件测试](./软件测试/)| |
 |[深度学习](https://github.com/edu2act/course-deep-learning/tree/2017-2018-1st)|2015级|[Python与机器学习](./Python与机器学习/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-deep-learning/releases/tag/2017-2018-1st)|
-|[TensorFlow](https://github.com/edu2act/2017-2018_1st_TensorFlow)|2015级|[Python与机器学习](./Python与机器学习/)| |
+|[TensorFlow](https://github.com/edu2act/course-tensorflow/tree/2017-2018-1st)|2015级|[Python与机器学习](./Python与机器学习/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-tensorflow/releases/tag/2017-2018-1st)|
 |[PythonWeb高级开发](https://github.com/edu2act/course-python-web-high/tree/2017-2018-1st)|2015级|[Python与机器学习](./Python与机器学习/)|[![](https://img.shields.io/badge/term-2017--2018--1st-green.svg)](https://github.com/edu2act/course-python-web-high/releases/tag/2017-2018-1st)|
 |[PHP框架开发](https://github.com/edu2act/2017-2018_1st_PHP-Framework-Development)|2015级|[PHP与云计算技术](./PHP与云计算技术/)| |
 |[LAMP体系结构](https://github.com/edu2act/2017-2018_1st_LAMP)|2015级|[PHP与云计算技术](./PHP与云计算技术/)| |
